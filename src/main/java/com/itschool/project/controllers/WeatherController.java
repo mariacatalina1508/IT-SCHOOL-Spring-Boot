@@ -1,6 +1,6 @@
 package com.itschool.project.controllers;
 
-import com.itschool.project.models.Weather;
+import com.itschool.project.models.entities.Weather;
 import com.itschool.project.services.WeatherService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
